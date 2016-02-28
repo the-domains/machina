@@ -1,7 +1,7 @@
 name: machina
 favicon: null
 layout_spectrum: 0.93804
-typography_spectrum: 0.1431480508763343
+typography_spectrum: 0.60311
 title: Jimmy Thanki
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8152167105581611
+    - '#000000'
+    - '#ffffff'
+    - '#3e3e3e'
+    - '#b9b9b9'
+    - '#8c1517'
+  brandStrength: 0.625
   lightness: 0.48305635596625507
   saturation: 0.9540062341839075
   rhythmicContrast: 0.48077159258536994
