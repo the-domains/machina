@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[machina]]></title>
-        <description><![CDATA[machina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Jimmy Thanki]]></title>
+        <description><![CDATA[Jimmy Thanki]]></description>
+        <link>https://thegrid.ai/machina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 00:26:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 00:36:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/machina/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gridpoint Added (intro)]]></title>
             <description><![CDATA[<article><h1>Gridpoint Added (intro)</h1><p>I'm a Web Developer, User Interface Designer, underground dance music composer (wannabe), and an aspiring outdoorsman. I live in Silicon Valley and occasionally drive up to San Francisco for social events. This node on 'the grid' is created with an intent of highlighting my adventures in technology and life in general. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c0dee6b97b05d04c74b25e88be966e5e593ff38.jpg"></article>]]></description>
-            <link>undefinedgridpoint-added-intro/index.html</link>
+            <link>https://thegrid.ai/machina/gridpoint-added-intro/index.html</link>
             <guid isPermaLink="false">1742727d-3f2d-4171-9dfa-70daebc406a0</guid>
-            <pubDate>Sun, 28 Feb 2016 00:25:57 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 00:35:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
